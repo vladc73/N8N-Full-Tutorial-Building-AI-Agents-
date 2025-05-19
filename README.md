@@ -22,3 +22,5 @@ Provide a comprehensive, step-by-step guide for beginners interested in creating
 
 •	Practical Application: The tutorial emphasizes real-world use cases, showcasing how AI agents can automate and streamline tasks.
 
+## Transcript
+<a href="https://github.com/vladc73/Malware-Analysis-Lab">Tutorial</a>
