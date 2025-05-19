@@ -6,47 +6,16 @@ Provide a comprehensive, step-by-step guide for beginners interested in creating
 
 ![AI agent project 1](https://github.com/user-attachments/assets/094f0aa0-0672-4fa0-a9e7-2e86b42d47b1)
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Static Malware analysis          | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Dynamic Malware Analysis         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Vulnerability Scanning         | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
-| Vulnerability Remediation      | <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Key Steps Covered in the Tutorial
+1.	Introduction to N8N: An overview of N8N's interface and its role in automating workflows.
+2.	Setting Up the Environment: Guidance on installing N8N and configuring it for AI agent development.
+3.	Integrating AI Tools: Instructions on connecting N8N with AI services like GPT-4 to enhance agent capabilities.YouTube
+4.	Designing Workflows: Step-by-step creation of workflows that enable AI agents to perform tasks such as data processing, decision-making, and responding to user inputs.
+5.	Testing and Deployment: Demonstrations on how to test the AI agents within N8N and deploy them for real-world applications.
 
-## Tools
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process_Hacker-EF3B2D?&style=for-the-badge&logo=Process_Hacker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GeoIP2_Database-777BB4?&style=for-the-badge&logo=GeoIP2_Database&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Regshot-777BB4?&style=for-the-badge&logo=Regshot&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Procmon-777BB4?&style=for-the-badge&logo=Procmon&logoColor=white" />
-</div>
+## Key Takeaways
+•	Accessibility: N8N offers a user-friendly platform for building AI agents without extensive programming knowledge.Ahrefs+4YouTube+4Instagram+4
+•	Flexibility: The tool supports integration with various AI services, allowing for customizable agent functionalities.
+•	Scalability: Workflows created in N8N can be scaled to handle more complex tasks as needed.VEED.IO
+•	Practical Application: The tutorial emphasizes real-world use cases, showcasing how AI agents can automate and streamline tasks.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Hxd-00A4EF?&style=for-the-badge&logo=Hxdt&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cmder-4B275F?&style=for-the-badge&logo=Cmder&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hashcal-4B275F?&style=for-the-badge&logo=Hashcal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hashmyfiles-4B275F?&style=for-the-badge&logo=Hashmyfiles&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BinText-4B275F?&style=for-the-badge&logo=BinText&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Xorsearch-4B275F?&style=for-the-badge&logo=Xorsearch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Floss-4B275F?&style=for-the-badge&logo=Floss&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Exeinfo-4B275F?&style=for-the-badge&logo=Exeinfo&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
-
-## Projects
-- <a href="https://github.com/vladc73/Malware-Analysis-Lab">Malware Analysis Lab</a>
-- <a href="https://github.com/vladc73/Identify-and-Remediate-Vulnerabilities-Lab">Identify and Remediate Vulnerabilities Lab</a>
-- IDS/Zeek Network Monitoring Lab
-- Set up Honeypot
-- Wazuh to SOAR Implementation
