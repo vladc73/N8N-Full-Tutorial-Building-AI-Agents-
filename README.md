@@ -3,9 +3,8 @@
 
 ## Objective
 The YouTube video titled "N8N Full Tutorial: Building AI Agents in 2025 for Beginners!" is designed to provide a comprehensive, step-by-step guide for beginners interested in creating AI agents using the n8n automation platform. The tutorial focuses on integrating tools like OpenAI and Airtable to build a functional inventory management system, demonstrating how to set up triggers, connect services, and enable dynamic decision-making within workflows 
+
 ![AI agent project 1](https://github.com/user-attachments/assets/094f0aa0-0672-4fa0-a9e7-2e86b42d47b1)
-
-
 
 ## Skills
 | Skill                                         | Associated Project         |
