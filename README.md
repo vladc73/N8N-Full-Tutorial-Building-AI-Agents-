@@ -1,5 +1,5 @@
 # N8N Full Tutorial Building AI Agents
-<a href="[https://www.youtube.com/watch?v=ZbIVOy_GPyQ&list=WL&index=3&t=1s]"><img src="https://img.shields.io/badge/-YouTube-0072b1?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://www.youtube.com/watch?v=ZbIVOy_GPyQ&list=WL&index=3&t=1s"><img src="https://img.shields.io/badge/-YouTube-0072b1?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 ## Objective
 Provide a comprehensive, step-by-step guide for beginners interested in creating AI agents using the n8n automation platform. The tutorial focuses on integrating tools like OpenAI and Airtable to build a functional inventory management system, demonstrating how to set up triggers, connect services, and enable dynamic decision-making within workflows 
