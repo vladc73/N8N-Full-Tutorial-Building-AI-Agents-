@@ -5,6 +5,7 @@
 
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+![AI agent project 1](https://github.com/user-attachments/assets/0badd8cc-e081-4a44-abf7-e186eeab6c7a)
 
 ## Skills
 | Skill                                         | Associated Project         |
