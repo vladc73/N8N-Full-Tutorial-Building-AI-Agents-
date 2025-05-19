@@ -19,5 +19,6 @@ Provide a comprehensive, step-by-step guide for beginners interested in creating
 •	Flexibility: The tool supports integration with various AI services, allowing for customizable agent functionalities.
 
 •	Scalability: Workflows created in N8N can be scaled to handle more complex tasks as needed.
+
 •	Practical Application: The tutorial emphasizes real-world use cases, showcasing how AI agents can automate and streamline tasks.
 
