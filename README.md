@@ -23,8 +23,11 @@ Provide a comprehensive, step-by-step guide for beginners interested in creating
 •	Practical Application: The tutorial emphasizes real-world use cases, showcasing how AI agents can automate and streamline tasks.
 
 ## Chapters:
+
 0:00 - What are agents?
+
 2:27 - Master AI agents with us
+
 3:30 - N8N Interface and Hierarchy
 4:23 - Creating an N8N Workflow
 4:43 - N8N Node Types
