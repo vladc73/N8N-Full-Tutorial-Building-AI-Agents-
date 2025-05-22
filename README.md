@@ -22,5 +22,26 @@ Provide a comprehensive, step-by-step guide for beginners interested in creating
 
 •	Practical Application: The tutorial emphasizes real-world use cases, showcasing how AI agents can automate and streamline tasks.
 
+## Chapters:
+0:00 - What are agents?
+2:27 - Master AI agents with us
+3:30 - N8N Interface and Hierarchy
+4:23 - Creating an N8N Workflow
+4:43 - N8N Node Types
+6:38 - Creating a trigger
+8:22 - Adding the AI Agent
+9:05 - Adding a Chat Model
+10:35 - Testing the Agent
+11:02 - Adding Memory to the Agent
+13:20 - Creating our first tool
+16:07 - Creating credentials for tools
+17:24 - Updating our first tool
+18:37 - Testing agent with database tool
+20:47 - Adding another agent tool
+22:19 - N8N ‘fromAI’ expression
+26:00 - Final Testing Results of N8N Agent
+27:52 - Creating Sub Agents
+29:52 - Learn more about agents
+
 ## Tutorial
 <a href="Transcript">Transcript</a>
